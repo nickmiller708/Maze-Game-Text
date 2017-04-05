@@ -1,0 +1,21 @@
+Weapon
+Sword
+10000
+0
+10
+15
+10
+Potion
+Healing Potion
+0
+35
+0
+0
+0
+Money
+Bag of Gold
+50
+0
+0
+0
+87
